@@ -28,7 +28,7 @@
 **2. Which issues that we have faced in the past?**
 
 
-**3. CHANGELOG/Release Notes **
+**3. CHANGELOG/Release Notes**
 
 - Take your time thinking before writing about what you have learned.
 - Please take a look at the documents shared on the Slack channel.
